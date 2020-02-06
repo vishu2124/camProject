@@ -1,7 +1,7 @@
 # camProject
 This is a very simple project used to integrate camera api into a react native project 
 
-##Permissions
+#Permissions
 To use the camera,
 
 On Android you must ask for camera permission:
