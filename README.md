@@ -1,6 +1,17 @@
 # camProject
 This is a very simple project used to integrate camera api into a react native project 
 
+
+To run use the following 
+-- yarn install 
+-- cd ios && pod install
+ 
+Then use react-native run-android or run-its
+
+Not that camera api is only available at the hardware and not on simulators 
+
+
+
 #Permissions
 To use the camera,
 
